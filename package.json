@@ -32,7 +32,6 @@
     "test:engines": "nvu engines npm test"
   },
   "dependencies": {
-    "react-dev-utils": "^12.0.1",
     "serve-handler": "^6.1.3",
     "sockjs": "^0.3.24"
   },
